@@ -1,0 +1,13 @@
+Fri Apr 21 14:20:33 BST 2017 INFO:Slick Build #237
+Fri Apr 21 14:20:34 BST 2017 INFO:LWJGL Version: 2.9.2
+Fri Apr 21 14:20:34 BST 2017 INFO:OriginalDisplayMode: 1920 x 1080 x 32 @59Hz
+Fri Apr 21 14:20:34 BST 2017 INFO:TargetDisplayMode: 640 x 480 x 0 @0Hz
+Fri Apr 21 14:20:35 BST 2017 INFO:Starting display 640x480
+Fri Apr 21 14:20:35 BST 2017 INFO:Use Java PNG Loader = true
+WARNING: Found unknown Windows version: Windows 10
+Attempting to use default windows plug-in.
+Loading: net.java.games.input.DirectAndRawInputEnvironmentPlugin
+Fri Apr 21 14:20:35 BST 2017 INFO:Found 2 controllers
+Fri Apr 21 14:20:35 BST 2017 INFO:0 : Corsair K30A Gaming Keyboard
+Fri Apr 21 14:20:35 BST 2017 INFO:1 : Controller (Xbox One For Windows)
+Fri Apr 21 14:20:35 BST 2017 INFO:Starting display 1440x900
